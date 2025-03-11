@@ -1,0 +1,46 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    font-family: 'Arial', sans-serif; 
+    } 
+    /* Fundo gradiente */ 
+    body { 
+    background: black; color: white; 
+    text-align: center; 
+    padding: 20px; 
+    } 
+    /* Estilizando o cabeçalho */ 
+    header { 
+    background: rgba(255, 255, 255, 0.2); 
+    padding: 20px; 
+    border-radius: 10px; 
+    margin-bottom: 20px; 
+    } 
+    /* Parágrafo estiloso */ 
+    p { 
+    font-size: 1.2em; 
+    margin: 10px 0; 
+    } 
+    /* Botão estilizado */ 
+    button { 
+    background-color: black;
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 1.2em; 
+    border: none; 
+    border-radius: 10px; 
+    cursor: pointer; 
+    transition: 0.3s; 
+    } 
+    button:hover { 
+    background-color: purple; 
+    transform: scale(1.1); 
+    } 
+
+    /* Rodapé */ 
+    footer { 
+    margin-top: 20px; 
+    font-size: 0.9em; 
+    } 
+    

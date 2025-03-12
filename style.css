@@ -7,7 +7,7 @@
     /* Fundo gradiente */ 
     body { 
     background: black; color: white; 
-    text-align: center; 
+    text-align: center;     
     padding: 20px; 
     } 
     /* Estilizando o cabeçalho */ 
@@ -24,7 +24,7 @@
     } 
     /* Botão estilizado */ 
     button { 
-    background-color: black;
+    background-color: #ed1c2e;
     color: white; 
     padding: 10px 20px; 
     font-size: 1.2em; 
@@ -34,13 +34,11 @@
     transition: 0.3s; 
     } 
     button:hover { 
-    background-color: purple; 
+    background-color: #9a031e; 
     transform: scale(1.1); 
     } 
-
     /* Rodapé */ 
     footer { 
     margin-top: 20px; 
     font-size: 0.9em; 
     } 
-    
